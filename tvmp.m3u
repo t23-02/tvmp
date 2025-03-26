@@ -34,7 +34,7 @@ https://wbd.x10.bz/tvmp?id=10
 #EXTINF:0 group-title="TVMP" tvg-logo="https://tvmienphi.cc/uploads/tv_image/sm/xem-kenh-animax-truc-tuyen.png",ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
-https://wbd.x10.bz/tvmp?id=11
+#https://wbd.x10.bz/tvmp?id=11
 #EXTINF:0 group-title="K+" tvg-logo="https://tvmienphi.org/uploads/tv_image/sm/xem-kenh-k-sport-1-k-pm-truc-tuyen.link",K+ Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
